@@ -23,10 +23,6 @@ A wearable gesture-recognition glove that wirelessly controls home appliances â€
   </tr>
 </table>
 
-<p align="center">
-  <img src="assets/poster.jpg" alt="Graduation Project Poster" width="700"/><br/>
-  <sub><b>Graduation Project Poster â€” Benha National University 2025/2026</b></sub>
-</p>
 
 
 ---
