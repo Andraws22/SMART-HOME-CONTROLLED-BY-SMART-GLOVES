@@ -307,6 +307,7 @@ smart-home-smart-gloves/
 |Ahmed Diaa Eldin |
 
 **Supervisor:** Prof. / Dr. Dina Hosny El-Nagar
+
 **Institution:** Benha National University — Faculty of Engineering
 **Program:** Mechatronics Engineering — B.Sc. Final Year Project, 2025/2026
 
