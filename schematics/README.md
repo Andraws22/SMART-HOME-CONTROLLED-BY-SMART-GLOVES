@@ -9,8 +9,6 @@ This folder contains the circuit schematics for both subsystems.
 | `smart_glove_schematic.png` | Smart Glove Unit — flex sensor voltage dividers, ESP32, boost converter, battery |
 | `smart_home_schematic.png` | Smart Home Unit — relay, servo, motor driver, fan, power supply |
 
-> 📌 Add your schematic images (exported from KiCad, EasyEDA, Fritzing, or hand-drawn scans) to this folder and update the filenames above.
-
 ## Smart Glove — Circuit Description
 
 ```
