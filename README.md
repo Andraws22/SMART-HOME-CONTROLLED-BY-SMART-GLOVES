@@ -69,9 +69,9 @@ Three flex sensors produce a **3-bit binary code** (8 combinations: `000` → `1
 ┌─────────────────────────────┐        Wi-Fi (AP/STA)        ┌──────────────────────────────────┐
 │        SMART GLOVE          │ ◄──────────────────────────► │         SMART HOME               │
 │                             │    Direct ESP32-to-ESP32     │                                  │
-│  Flex Sensor 1 (Index)      │    No router needed          │  💡 220V Lamp    (Relay)         │
-│  Flex Sensor 2 (Middle)  ──►│  ESP32 Station Mode          │  🔒 Door Lock    (SG90 Servo)    │
-│  Flex Sensor 3 (Ring)       │                              │  🪟 Curtain      (DC Motor)      │
+│  Flex Sensor 1 (Thump)      │    No router needed          │  💡 220V Lamp    (Relay)         │
+│  Flex Sensor 2 (Index)   ──►│  ESP32 Station Mode          │  🔒 Door Lock    (SG90 Servo)    │
+│  Flex Sensor 3 (Pinky)      │                              │  🪟 Curtain      (DC Motor)      │
 │  3.7V Li-ion Battery        │                              │  🌀 Fan + LED    (BLDC Fan)      │
 │  ESP32 + Boost Converter    │                              │  ESP32 Access Point              │
 └─────────────────────────────┘                              └──────────────────────────────────┘
@@ -88,7 +88,7 @@ Three flex sensors produce a **3-bit binary code** (8 combinations: `000` → `1
 | Microcontroller | ESP32 Development Board |
 | Flex Sensors | 3× Resistive flex sensors (2.2-inch) |
 | Pull-down Resistors | 3× 10 kΩ |
-| Battery | 3.7V Li-ion 18650 Cell (with PCM protection) |
+| Battery | 3.7V Li-ion 18650 Cell |
 | Power Regulation | 5V Boost Converter Module (e.g. MT3608) |
 | Switch | On/Off Slide Switch (optional) |
 | Base | Fabric glove |
@@ -286,7 +286,7 @@ smart-home-smart-gloves/
 │
 ├── docs/
 │   ├── wiring_guide.md            # Detailed wiring instructions
-│   └── graduation_report.pdf      # Full B.Sc. graduation report (optional)
+│   └── graduation_report.pdf      # Full B.Sc. graduation report
 │
 ├── schematics/
 │   └── README.md                  # Schematic descriptions & figure references
@@ -300,14 +300,14 @@ smart-home-smart-gloves/
 
 ## Authors
 
-| Name | Role |
+| Name |
 |---|---|
-| [Student Full Name 1] | Hardware Design & Assembly |
-| [Student Full Name 2] | Firmware Development |
-| [Student Full Name 3] | Testing & Validation |
-| [Student Full Name 4] | Documentation & Report |
+| Andraws Samoel Sobhy Baskhron Saad |
+|Abdelrahman Mohamed Nasser Zaki |
+|Mohammed Hussein Ragab |
+|Ahmed Diaa Eldin |
 
-**Supervisor:** Prof. / Dr. [Supervisor Full Name]
+**Supervisor:** Prof. / Dr. Dina Hosny El-Nagar
 **Institution:** Benha National University — Faculty of Engineering
 **Program:** Mechatronics Engineering — B.Sc. Final Year Project, 2025/2026
 
