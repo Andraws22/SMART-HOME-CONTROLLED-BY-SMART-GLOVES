@@ -8,8 +8,7 @@ This folder contains images used in the README and documentation.
 |---|---|
 | `glove.jpg` | Photo of the assembled Smart Glove prototype |
 | `smart_home.jpg` | Photo of the assembled Smart Home control box |
-| `poster.jpg` | Graduation project poster |
-| `demo.gif` | (Optional) Short demo GIF showing a gesture triggering a device |
+
 
 ## How to Add Your Photos
 
