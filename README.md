@@ -28,7 +28,6 @@ A wearable gesture-recognition glove that wirelessly controls home appliances �
   <sub><b>Graduation Project Poster — Benha National University 2025/2026</b></sub>
 </p>
 
-> 🎥 *(Optional: Add a demo video link here — YouTube, Google Drive, etc.)*
 
 ---
 
@@ -301,7 +300,7 @@ smart-home-smart-gloves/
 ## Authors
 
 | Name |
-|---|---|
+|---|
 | Andraws Samoel Sobhy Baskhron Saad |
 |Abdelrahman Mohamed Nasser Zaki |
 |Mohammed Hussein Ragab |
