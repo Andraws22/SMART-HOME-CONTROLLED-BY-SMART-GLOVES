@@ -85,7 +85,7 @@ Three flex sensors produce a **3-bit binary code** (8 combinations: `000` → `1
 | Pull-down Resistors | 3× 10 kΩ |
 | Battery | 3.7V Li-ion 18650 Cell |
 | Power Regulation | 5V Boost Converter Module (e.g. MT3608) |
-| Switch | On/Off Slide Switch (optional) |
+| Switch | On/Off Slide Switch |
 | Base | Fabric glove |
 
 ### Smart Home Unit
@@ -246,11 +246,11 @@ Set threshold at the midpoint.
 | Component | Qty | Unit Price (EGP) | Total (EGP) |
 |---|:---:|:---:|:---:|
 | ESP32 Development Board | 2 | 300 | 600 |
-| Flex Sensors (2.2-inch) | 3 | 850 | 2,550 |
+| Flex Sensors | 3 | 850 | 2,550 |
 | 10 kΩ Resistors | 3 | 1 | 3 |
 | 18650 Li-ion Cell | 4 | 60 | 240 |
 | On/Off Switch | 1 | 2.5 | 2.5 |
-| Holder + Protection Circuit | 1 | 40 | 40 |
+| Holder | 1 | 40 | 40 |
 | Relay Module 5V 2-Channel | 1 | 55 | 55 |
 | Buck Converter Module (with display) | 1 | 170 | 170 |
 | 12V/5A Power Supply Module | 1 | 195 | 195 |
@@ -305,6 +305,7 @@ smart-home-smart-gloves/
 **Supervisor:** Prof. / Dr. Dina Hosny El-Nagar
 
 **Institution:** Benha National University — Faculty of Engineering
+
 **Program:** Mechatronics Engineering — B.Sc. Final Year Project, 2025/2026
 
 ---
